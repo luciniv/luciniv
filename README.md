@@ -1,7 +1,7 @@
 ### Hi, I’m luciniv 🦆
 > (she/her)
 
-I'm a CS major looking to further my knowledge in any and every category of software and software development. 
+I'm a CS student looking to further my knowledge in software design and development. 
 </br> New opportunities are welcome, and I'm always up for an exciting project.
 
 ### Current Projects
