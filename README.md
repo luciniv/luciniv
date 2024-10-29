@@ -1,4 +1,4 @@
-### Hi, I’m luciniv
+### hi, I’m luciniv
 > (she/her) 
 > (wits/end)
 
