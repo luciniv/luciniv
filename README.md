@@ -2,10 +2,10 @@
 > (she/her) 
 > (wits/end)
 
-I'm a CS student interested mostly in UI / UX, web development, and getting real silly with it
+I'm a CS student interested mostly in UI / UX, application development, game design, and getting real silly with it
 
 ### current focuses
-- Front-end web development
+- Full-stack web development
 - Fathoming that which is Python
 - Blender
 - Roblox Lua
