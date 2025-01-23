@@ -8,7 +8,7 @@ I'm a CS student interested mostly in UI / UX, application development, game des
 - Full-stack web development
 - Fathoming that which is Python
 - Blender
-- Roblox Lua
+- Unreal (yes, real)
 
 ### forever haunts me
 - Discord bot development
