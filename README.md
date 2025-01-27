@@ -2,7 +2,7 @@
 > (she/her) 
 > (wits/end)
 
-I'm a CS student interested mostly in UI / UX, application development, game design, and getting real silly with it
+I'm a CS student interested mostly in software engineering, UI / UX, game design, and getting real silly with it
 
 ### current focuses
 - Full-stack web development
@@ -13,6 +13,9 @@ I'm a CS student interested mostly in UI / UX, application development, game des
 ### forever haunts me
 - Discord bot development
 - Roblox Lua
+
+### check out my stuff!
+- I have a few websites + Discord bots set as public here, feel free to take a peek ;)
 
 
 
