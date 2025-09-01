@@ -1,20 +1,19 @@
-### hi, I’m luciniv
-> (she/her) 
+### Hi, I’m luciniv
+> (any/all) 
 > (wits/end)
 
-I'm a CS student interested in software engineering, UI / UX, game design, and getting real silly with it
+I'm a CS student working in SWE, game development, and getting real silly with it
 
-### current focuses
-- Full-stack development
-- Fathoming that which is Python
-- Blender
-- Unreal (yes, real)
+### Current focuses
+- Full-stack dev
+- Luau
+- Concept artistry / worldcrafting
 
-### forever haunts me
+### Forever haunts me
 - Discord bot development
 - Luau
 
-### check out my stuff!
+### Check out my stuff!
 - I have a few websites + Discord bots set as public here, feel free to take a peek ;)
 
 
