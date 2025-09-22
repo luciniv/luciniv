@@ -1,24 +1,12 @@
-### Hi, I’m luciniv
-> (any/all) 
-> (wits/end)
+### Hi, I’m Chloe, I also often go by ``luciniv`` online
+> (she/her) 
 
-I'm a CS student working in SWE, game development, and getting real silly with it
+I'm a CS student working in SWE, fullstack web development, and entering into the game development sphere. I strive, in all of my projects, to build tools that support teams and businesses in accomplishing more in less time.
 
-### Current focuses
-- Full-stack dev
-- Luau
-- Concept artistry / worldcrafting
-
-### Forever haunts me
-- Discord bot development
-- Luau
+### My current focuses
+- Python software development
+- Data analysis and transformation
+- Luau (Roblox's Lua flavor)
 
 ### Check out my stuff!
-- I have a few websites + Discord bots set as public here, feel free to take a peek ;)
-
-
-
-If you'd like to contact me elsewhere, my username ``luciniv`` is pretty universal
-
-
-
+- I have a few websites + Python Discord bots set as public here, feel free to take a peek!
