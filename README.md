@@ -1,4 +1,4 @@
-### Hi, I’m Chloe, I also often go by ``luciniv`` online
+### Hi, I’m Chloe
 > (she/her) 
 
 I'm a CS student working in SWE, fullstack web development, and entering into the game development sphere. I strive, in all of my projects, to build tools that support teams and businesses in accomplishing more in less time.
