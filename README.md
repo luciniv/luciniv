@@ -7,8 +7,8 @@ I mainly use Python, React, Node, JavaScript, PHP + AJAX, and HTML/CSS in my pro
 
 ### Check out some of my work!
 - MailBee, a Discord ticketing application ([GitHub](https://github.com/luciniv/MailBee))
-- A WIP analytics dashboard for MailBee (website TBA, [GitHub]()) 
-- Hozcol, a not-for-profit community management organization ([website](http://www.hozcol.org/home), [GitHub](https://github.com/luciniv/hozcol-site))
+- Caritas, a charity platform created as part of my capstone project at Saint Vincent College ([website](https://www.caritasvc.com), [GitHub](https://github.com/yummypieisyummy/Caritas))
+- Hozcol, a not-for-profit community management organization ([website](https://www.hozcol.org/home), [GitHub](https://github.com/luciniv/hozcol-site))
 
 I have a lot more on the way that I'm excited to share soon.
 
